@@ -1,0 +1,19 @@
+/***********************************************/
+/* https://github.com/ZengetsuDev/ZenFramework */
+/*                 ZenFramework                */
+/***********************************************/
+
+1. lick on the button named : "Download ZIP".
+2. Open a File Explorer and go into your Workspace.
+3. Open the archive and drop the ZenFramework-Master in your Workspace.
+4. Open Eclipse.
+5. Create a new JavaProject named "ZenFramework-master";
+6. Click right on the project and go into Properties.
+7. Go in "Java Build Path" and Libraries.
+8. And reset the spigot file.
+9. ENJOY !
+
+/***********************************************/
+/* https://github.com/ZengetsuDev/ZenFramework */
+/*                 ZenFramework                */
+/***********************************************/
