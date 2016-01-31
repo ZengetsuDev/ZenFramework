@@ -1,0 +1,7 @@
+name: ZenFramework
+author: ZenFramework
+version: 1.0
+main: com.zenframework.ZenFramework
+commands:
+  a:
+  b:
