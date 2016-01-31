@@ -12,6 +12,7 @@ package com.zenframework;
 
 import java.util.ArrayList;
 
+import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import com.zenframework.methods.ZenMessage;
@@ -32,6 +33,7 @@ public class ZenFramework extends JavaPlugin {
 		new ZenEvents(this);
 	}
 	public void onDisable() {
+		Bukkit.broadcastMessage("a");
 	}
 	
 	//Shortcut
