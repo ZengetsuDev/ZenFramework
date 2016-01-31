@@ -1,0 +1,19 @@
+{
+    "name": "zenframework/zenframework",
+    "type": "library",
+    "description": "For Spigot plugins.",
+    "keywords": ["zenframework","framework", "java", "bukkit", "spigot", "simply"],
+    "homepage": "https://github.com/ZengetsuDev/ZenFramework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZengetsuDev",
+            "email": "emnitpro@gmail.com",
+            "homepage": "https://github.com/ZengetsuDev/ZenFramework",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    	"java": ">= 7"
+    }
+}
